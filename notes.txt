@@ -1,3 +1,0 @@
-Patch notes
-To run first = npm install express mongoose dotenv nodemon
-   npm install --save-dev @types/express
