@@ -1,2 +1,3 @@
-Ok will write backend here at the end of this week, even a little bit forsure
-Hmm Whole day went in designing as i lazied the way too..
+Patch notes
+To run first = npm install express mongoose dotenv nodemon
+   npm install --save-dev @types/express
